@@ -1,1 +1,70 @@
 
+In [14]: a = 1
+         while a < 10
+               print(a)
+               a += 1
+         1
+         2
+         3
+         4
+         5
+         6
+         7
+         8
+         9
+In [ ]: while battery.notDead():
+           pas
+for (int i = 0; i < 10: )
+name = "jatin" 
+name._iter_
+print(type(name))
+fopr c in name:
+      print(c)
+      print(type(c))
+<class 'str'>
+j
+<class 'str'>
+a
+<class 'str'>
+t
+<class 'str'>
+i
+<class 'str'>
+n
+<class 'str'>
+for i in range(5):
+    print(i) # 3
+    if i == 3: # 3
+        break
+0
+1
+2
+3
+for i in range(5):
+     print(i)
+     i = 100
+     print(i0
+     0
+     100
+     1
+     100
+     2
+     100
+     3
+     100
+     4
+     100
+if True:
+   vytguyv
+print("rest of the  code")
+rest of the code
+for i in range(5):
+    print(i)
+    if i == 3:
+         break
+print("something")
+0
+1
+2
+3
+4
